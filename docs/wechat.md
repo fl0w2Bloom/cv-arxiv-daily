@@ -1,7 +1,9 @@
-> Updated on 2022.07.06
+> Updated on 2022.07.07
 
 ## SLAM
 
+- 2022-07-06, **VI-SLAM2tag: Low-Effort Labeled Dataset Collection for Fingerprinting-Based Indoor Localization**, Marius Laska et.al., Paper: [http://arxiv.org/abs/2207.02668v1](http://arxiv.org/abs/2207.02668v1)
+- 2022-07-06, **A Novel Hybrid Endoscopic Dataset for Evaluating Machine Learning-based Photometric Image Enhancement Models**, Axel Garcia-Vega et.al., Paper: [http://arxiv.org/abs/2207.02396v1](http://arxiv.org/abs/2207.02396v1)
 - 2022-07-04, **VECtor: A Versatile Event-Centric Benchmark for Multi-Sensor SLAM**, Ling Gao et.al., Paper: [http://arxiv.org/abs/2207.01404v1](http://arxiv.org/abs/2207.01404v1)
 - 2022-07-04, **VIP-SLAM: An Efficient Tightly-Coupled RGB-D Visual Inertial Planar SLAM**, Danpeng Chen et.al., Paper: [http://arxiv.org/abs/2207.01158v1](http://arxiv.org/abs/2207.01158v1)
 - 2022-07-03, **Wireless Channel Prediction in Partially Observed Environments**, Mingsheng Yin et.al., Paper: [http://arxiv.org/abs/2207.00934v1](http://arxiv.org/abs/2207.00934v1)
@@ -136,6 +138,7 @@
 
 ## SFM
 
+- 2022-07-06, **A Novel Hybrid Endoscopic Dataset for Evaluating Machine Learning-based Photometric Image Enhancement Models**, Axel Garcia-Vega et.al., Paper: [http://arxiv.org/abs/2207.02396v1](http://arxiv.org/abs/2207.02396v1)
 - 2022-06-24, **Parallel Structure from Motion for UAV Images via Weighted Connected Dominating Set**, San Jiang et.al., Paper: [http://arxiv.org/abs/2206.11499v2](http://arxiv.org/abs/2206.11499v2)
 - 2022-06-13, **TC-SfM: Robust Track-Community-Based Structure-from-Motion**, Lei Wang et.al., Paper: [http://arxiv.org/abs/2206.05866v1](http://arxiv.org/abs/2206.05866v1)
 - 2022-06-10, **EigenFairing: 3D Model Fairing using Image Coherence**, Pragyana Mishra et.al., Paper: [http://arxiv.org/abs/2206.05309v1](http://arxiv.org/abs/2206.05309v1)
@@ -173,7 +176,7 @@
 ## Visual Localization
 
 - 2022-07-05, **Object-Level Targeted Selection via Deep Template Matching**, Suraj Kothawade et.al., Paper: [http://arxiv.org/abs/2207.01778v1](http://arxiv.org/abs/2207.01778v1)
-- 2022-07-04, **Adaptive Fine-Grained Sketch-Based Image Retrieval**, Ayan Kumar Bhunia et.al., Paper: [http://arxiv.org/abs/2207.01723v1](http://arxiv.org/abs/2207.01723v1)
+- 2022-07-06, **Adaptive Fine-Grained Sketch-Based Image Retrieval**, Ayan Kumar Bhunia et.al., Paper: [http://arxiv.org/abs/2207.01723v2](http://arxiv.org/abs/2207.01723v2)
 - 2022-07-04, **Embedding contrastive unsupervised features to cluster in- and out-of-distribution noise in corrupted image datasets**, Paul Albert et.al., Paper: [http://arxiv.org/abs/2207.01573v1](http://arxiv.org/abs/2207.01573v1)
 - 2022-07-02, **Contrastive Cross-Modal Knowledge Sharing Pre-training for Vision-Language Representation Learning and Retrieval**, Keyu Wen et.al., Paper: [http://arxiv.org/abs/2207.00733v1](http://arxiv.org/abs/2207.00733v1)
 - 2022-07-01, **DALG: Deep Attentive Local and Global Modeling for Image Retrieval**, Yuxin Song et.al., Paper: [http://arxiv.org/abs/2207.00287v1](http://arxiv.org/abs/2207.00287v1)
