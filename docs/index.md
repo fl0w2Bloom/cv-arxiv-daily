@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.08.21
+## Updated on 2022.08.22
 
 ## SLAM
 
@@ -285,6 +285,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-19**|**Self-Supervised Visual Place Recognition by Mining Temporal and Feature Neighborhoods**|Chao Chen et.al.|[2208.09315v1](http://arxiv.org/abs/2208.09315v1)|null|
+|**2022-08-19**|**TTT-UCDR: Test-time Training for Universal Cross-Domain Retrieval**|Soumava Paul et.al.|[2208.09198v1](http://arxiv.org/abs/2208.09198v1)|null|
 |**2022-08-17**|**Visual Cross-View Metric Localization with Dense Uncertainty Estimates**|Zimin Xia et.al.|[2208.08519v1](http://arxiv.org/abs/2208.08519v1)|**[link](https://github.com/tudelft-iv/crossviewmetriclocalization)**|
 |**2022-08-17**|**Understanding Attention for Vision-and-Language Tasks**|Feiqi Cao et.al.|[2208.08104v1](http://arxiv.org/abs/2208.08104v1)|null|
 |**2022-08-14**|**Visual Localization via Few-Shot Scene Region Classification**|Siyan Dong et.al.|[2208.06933v1](http://arxiv.org/abs/2208.06933v1)|**[link](https://github.com/siyandong/src)**|
@@ -440,7 +442,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-08-17**|**Blind-Spot Collision Detection System for Commercial Vehicles Using Multi Deep CNN Architecture**|Muhammad Muzammel et.al.|[2208.08224v1](http://arxiv.org/abs/2208.08224v1)|null|
+|**2022-08-19**|**Blind-Spot Collision Detection System for Commercial Vehicles Using Multi Deep CNN Architecture**|Muhammad Muzammel et.al.|[2208.08224v2](http://arxiv.org/abs/2208.08224v2)|null|
 |**2022-08-08**|**MetaGraspNet: A Large-Scale Benchmark Dataset for Scene-Aware Ambidextrous Bin Picking via Physics-based Metaverse Synthesis**|Maximilian Gilles et.al.|[2208.03963v1](http://arxiv.org/abs/2208.03963v1)|null|
 |**2022-08-07**|**CVLNet: Cross-View Semantic Correspondence Learning for Video-based Camera Localization**|Yujiao Shi et.al.|[2208.03660v1](http://arxiv.org/abs/2208.03660v1)|null|
 |**2022-07-29**|**Explicit Occlusion Reasoning for Multi-person 3D Human Pose Estimation**|Qihao Liu et.al.|[2208.00090v1](http://arxiv.org/abs/2208.00090v1)|null|
