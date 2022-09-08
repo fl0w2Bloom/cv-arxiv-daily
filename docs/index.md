@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.09.07
+## Updated on 2022.09.08
 
 ## SLAM
 
@@ -241,6 +241,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-07**|**Deployment of Aerial Robots during the Flood Disaster in Erftstadt / Blessem in July 2021**|Hartmut Surmann et.al.|[2209.03084v1](http://arxiv.org/abs/2209.03084v1)|null|
 |**2022-08-27**|**Weakly and Semi-Supervised Detection, Segmentation and Tracking of Table Grapes with Limited and Noisy Data**|Thomas A. Ciarfuglia et.al.|[2208.13001v1](http://arxiv.org/abs/2208.13001v1)|null|
 |**2022-08-12**|**Handling Constrained Optimization in Factor Graphs for Autonomous Navigation**|Barbara Bazzana et.al.|[2208.06325v1](http://arxiv.org/abs/2208.06325v1)|null|
 |**2022-08-04**|**Globally Consistent Video Depth and Pose Estimation with Efficient Test-Time Training**|Yao-Chih Lee et.al.|[2208.02709v1](http://arxiv.org/abs/2208.02709v1)|**[link](https://github.com/yaochih/gcvd-release)**|
@@ -301,7 +302,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-09-06**|**Segment Augmentation and Differentiable Ranking for Logo Retrieval**|Feyza Yavuz et.al.|[2209.02482v1](http://arxiv.org/abs/2209.02482v1)|null|
-|**2022-09-05**|**ScaleFace: Uncertainty-aware Deep Metric Learning**|Roman Kail et.al.|[2209.01880v1](http://arxiv.org/abs/2209.01880v1)|null|
+|**2022-09-05**|**ScaleFace: Uncertainty-aware Deep Metric Learning**|Roman Kail et.al.|[2209.01880v1](http://arxiv.org/abs/2209.01880v1)|**[link](https://github.com/stat-ml/face-evaluation)**|
 |**2022-09-04**|**CloudVision: DNN-based Visual Localization of Autonomous Robots using Prebuilt LiDAR Point Cloud**|Evgeny Yudin et.al.|[2209.01605v1](http://arxiv.org/abs/2209.01605v1)|null|
 |**2022-08-31**|**EViT: Privacy-Preserving Image Retrieval via Encrypted Vision Transformer in Cloud Computing**|Qihua Feng et.al.|[2208.14657v1](http://arxiv.org/abs/2208.14657v1)|**[link](https://github.com/onlinehuazai/evit)**|
 |**2022-08-25**|**A Deep Perceptual Measure for Lens and Camera Calibration**|Yannick Hold-Geoffroy et.al.|[2208.12300v1](http://arxiv.org/abs/2208.12300v1)|null|
