@@ -1,10 +1,10 @@
-> Updated on 2022.09.20
+> Updated on 2022.09.21
 
 ## SLAM
 
 - 2022-09-19, **LMBAO: A Landmark Map for Bundle Adjustment Odometry in LiDAR SLAM**, Letian Zhang et.al., Paper: [http://arxiv.org/abs/2209.08810v1](http://arxiv.org/abs/2209.08810v1)
 - 2022-09-18, **HGI-SLAM: Loop Closure With Human and Geometric Importance Features**, Shuhul Mujoo et.al., Paper: [http://arxiv.org/abs/2209.08608v1](http://arxiv.org/abs/2209.08608v1)
-- 2022-09-18, **Data-driven Loop Closure Detection in Bathymetric Point Clouds for Underwater SLAM**, Jiarui Tan et.al., Paper: [http://arxiv.org/abs/2209.08578v1](http://arxiv.org/abs/2209.08578v1)
+- 2022-09-18, **Data-driven Loop Closure Detection in Bathymetric Point Clouds for Underwater SLAM**, Jiarui Tan et.al., Paper: [http://arxiv.org/abs/2209.08578v1](http://arxiv.org/abs/2209.08578v1), Code: **[https://github.com/tjr16/bathy_nn_learning](https://github.com/tjr16/bathy_nn_learning)**
 - 2022-09-17, **DytanVO: Joint Refinement of Visual Odometry and Motion Segmentation in Dynamic Environments**, Shihao Shen et.al., Paper: [http://arxiv.org/abs/2209.08430v1](http://arxiv.org/abs/2209.08430v1), Code: **[https://github.com/geniussh/dytanvo](https://github.com/geniussh/dytanvo)**
 - 2022-09-17, **OA-SLAM: Leveraging Objects for Camera Relocalization in Visual SLAM**, Matthieu Zins et.al., Paper: [http://arxiv.org/abs/2209.08338v1](http://arxiv.org/abs/2209.08338v1)
 - 2022-09-17, **PlaneSLAM: Plane-based LiDAR SLAM for Motion Planning in Structured 3D Environments**, Adam Dai et.al., Paper: [http://arxiv.org/abs/2209.08248v1](http://arxiv.org/abs/2209.08248v1)
@@ -255,7 +255,7 @@
 
 - 2022-09-19, **Deep Metric Learning with Chance Constraints**, Yeti Z. Gurbuz et.al., Paper: [http://arxiv.org/abs/2209.09060v1](http://arxiv.org/abs/2209.09060v1), Code: **[https://github.com/yetigurbuz/ccp-dml](https://github.com/yetigurbuz/ccp-dml)**
 - 2022-09-18, **HGI-SLAM: Loop Closure With Human and Geometric Importance Features**, Shuhul Mujoo et.al., Paper: [http://arxiv.org/abs/2209.08608v1](http://arxiv.org/abs/2209.08608v1)
-- 2022-09-18, **Data-driven Loop Closure Detection in Bathymetric Point Clouds for Underwater SLAM**, Jiarui Tan et.al., Paper: [http://arxiv.org/abs/2209.08578v1](http://arxiv.org/abs/2209.08578v1)
+- 2022-09-18, **Data-driven Loop Closure Detection in Bathymetric Point Clouds for Underwater SLAM**, Jiarui Tan et.al., Paper: [http://arxiv.org/abs/2209.08578v1](http://arxiv.org/abs/2209.08578v1), Code: **[https://github.com/tjr16/bathy_nn_learning](https://github.com/tjr16/bathy_nn_learning)**
 - 2022-09-17, **Data Efficient Visual Place Recognition Using Extremely JPEG-Compressed Images**, Mihnea-Alexandru Tomita et.al., Paper: [http://arxiv.org/abs/2209.08343v1](http://arxiv.org/abs/2209.08343v1)
 - 2022-09-15, **Efficient Planar Pose Estimation via UWB Measurements**, Haodong Jiang et.al., Paper: [http://arxiv.org/abs/2209.06779v2](http://arxiv.org/abs/2209.06779v2), Code: **[https://github.com/SLAMLab-CUHKSZ/Efficient-Pose-Estimation-via-UWB-measurements](https://github.com/SLAMLab-CUHKSZ/Efficient-Pose-Estimation-via-UWB-measurements)**
 - 2022-09-14, **Transformers and CNNs both Beat Humans on SBIR**, Omar Seddati et.al., Paper: [http://arxiv.org/abs/2209.06629v1](http://arxiv.org/abs/2209.06629v1)
@@ -422,7 +422,7 @@
 
 ## Keypoint Detection
 
-- 2022-09-19, **Integrative Feature and Cost Aggregation with Transformers for Dense Correspondence**, Sunghwan Hong et.al., Paper: [http://arxiv.org/abs/2209.08742v1](http://arxiv.org/abs/2209.08742v1)
+- 2022-09-20, **Integrative Feature and Cost Aggregation with Transformers for Dense Correspondence**, Sunghwan Hong et.al., Paper: [http://arxiv.org/abs/2209.08742v2](http://arxiv.org/abs/2209.08742v2)
 - 2022-09-15, **Online Marker-free Extrinsic Camera Calibration using Person Keypoint Detections**, Bastian Pätzold et.al., Paper: [http://arxiv.org/abs/2209.07393v1](http://arxiv.org/abs/2209.07393v1), Code: **[https://github.com/ais-bonn/extrcamcalib_personkeypoints](https://github.com/ais-bonn/extrcamcalib_personkeypoints)**
 - 2022-09-07, **Deep Learning-Based Automatic Diagnosis System for Developmental Dysplasia of the Hip**, Yang Li et.al., Paper: [http://arxiv.org/abs/2209.03440v1](http://arxiv.org/abs/2209.03440v1)
 - 2022-08-27, **Learning to SLAM on the Fly in Unknown Environments: A Continual Learning Approach for Drones in Visually Ambiguous Scenes**, Ali Safa et.al., Paper: [http://arxiv.org/abs/2208.12997v1](http://arxiv.org/abs/2208.12997v1)
