@@ -2,6 +2,7 @@
 
 ## SLAM
 
+- 2022-11-30, **MVRackLay: Monocular Multi-View Layout Estimation for Warehouse Racks and Shelves**, Pranjali Pathre et.al., Paper: [http://arxiv.org/abs/2211.16882v1](http://arxiv.org/abs/2211.16882v1)
 - 2022-11-29, **PatchMatch-Stereo-Panorama, a fast dense reconstruction from 360° video images**, Hartmut Surmann et.al., Paper: [http://arxiv.org/abs/2211.16266v1](http://arxiv.org/abs/2211.16266v1), Code: **[https://github.com/roblabwh/patchmatch](https://github.com/roblabwh/patchmatch)**
 - 2022-11-29, **MmWave Mapping and SLAM for 5G and Beyond**, Yu Ge et.al., Paper: [http://arxiv.org/abs/2211.16024v1](http://arxiv.org/abs/2211.16024v1)
 - 2022-11-27, **Development of a Modular Real-time Shared-control System for a Smart Wheelchair**, Vaishanth Ramaraj et.al., Paper: [http://arxiv.org/abs/2211.14711v1](http://arxiv.org/abs/2211.14711v1)
@@ -336,6 +337,7 @@
 
 ## Visual Localization
 
+- 2022-11-30, **SGDraw: Scene Graph Drawing Interface Using Object-Oriented Representation**, Tianyu Zhang et.al., Paper: [http://arxiv.org/abs/2211.16697v1](http://arxiv.org/abs/2211.16697v1)
 - 2022-11-28, **SLAN: Self-Locator Aided Network for Cross-Modal Understanding**, Jiang-Tian Zhai et.al., Paper: [http://arxiv.org/abs/2211.16208v1](http://arxiv.org/abs/2211.16208v1)
 - 2022-11-29, **RankDNN: Learning to Rank for Few-shot Learning**, Qianyu Guo et.al., Paper: [http://arxiv.org/abs/2211.15320v2](http://arxiv.org/abs/2211.15320v2), Code: **[https://github.com/guoqianyu-alberta/rankdnn](https://github.com/guoqianyu-alberta/rankdnn)**
 - 2022-11-28, **Safety-quantifiable Line Feature-based Monocular Visual Localization with 3D Prior Map**, Xi Zheng et.al., Paper: [http://arxiv.org/abs/2211.15127v1](http://arxiv.org/abs/2211.15127v1)
