@@ -2,6 +2,7 @@
 
 ## SLAM
 
+- 2022-12-02, **Sparse SPN: Depth Completion from Sparse Keypoints**, Yuqun Wu et.al., Paper: [http://arxiv.org/abs/2212.00987v1](http://arxiv.org/abs/2212.00987v1)
 - 2022-12-01, **maplab 2.0 -- A Modular and Multi-Modal Mapping Framework**, Andrei Cramariuc et.al., Paper: [http://arxiv.org/abs/2212.00654v1](http://arxiv.org/abs/2212.00654v1), Code: **[https://github.com/ethz-asl/maplab](https://github.com/ethz-asl/maplab)**
 - 2022-12-01, **AstroSLAM: Autonomous Monocular Navigation in the Vicinity of a Celestial Small Body -- Theory and Experiments**, Mehregan Dor et.al., Paper: [http://arxiv.org/abs/2212.00350v1](http://arxiv.org/abs/2212.00350v1)
 - 2022-11-30, **MVRackLay: Monocular Multi-View Layout Estimation for Warehouse Racks and Shelves**, Pranjali Pathre et.al., Paper: [http://arxiv.org/abs/2211.16882v1](http://arxiv.org/abs/2211.16882v1)
@@ -279,6 +280,7 @@
 
 ## SFM
 
+- 2022-12-02, **High-Res Facial Appearance Capture from Polarized Smartphone Images**, Dejan Azinović et.al., Paper: [http://arxiv.org/abs/2212.01160v1](http://arxiv.org/abs/2212.01160v1)
 - 2022-11-28, **FeatureBooster: Boosting Feature Descriptors with a Lightweight Neural Network**, Xinjiang Wang et.al., Paper: [http://arxiv.org/abs/2211.15069v1](http://arxiv.org/abs/2211.15069v1)
 - 2022-11-24, **JigsawPlan: Room Layout Jigsaw Puzzle Extreme Structure from Motion using Diffusion Models**, Sepidehsadat Hosseini et.al., Paper: [http://arxiv.org/abs/2211.13785v1](http://arxiv.org/abs/2211.13785v1)
 - 2022-11-24, **SfM-TTR: Using Structure from Motion for Test-Time Refinement of Single-View Depth Networks**, Sergio Izquierdo et.al., Paper: [http://arxiv.org/abs/2211.13551v1](http://arxiv.org/abs/2211.13551v1)
@@ -339,6 +341,8 @@
 
 ## Visual Localization
 
+- 2022-12-02, **Information Retrieval from the Digitized Books**, Riya Gupta et.al., Paper: [http://arxiv.org/abs/2212.00999v1](http://arxiv.org/abs/2212.00999v1)
+- 2022-12-02, **StructVPR: Distill Structural Knowledge with Weighting Samples for Visual Place Recognition**, Yanqing Shen et.al., Paper: [http://arxiv.org/abs/2212.00937v1](http://arxiv.org/abs/2212.00937v1)
 - 2022-11-30, **Self-Supervised Feature Learning for Long-Term Metric Visual Localization**, Yuxuan Chen et.al., Paper: [http://arxiv.org/abs/2212.00122v1](http://arxiv.org/abs/2212.00122v1)
 - 2022-11-30, **SGDraw: Scene Graph Drawing Interface Using Object-Oriented Representation**, Tianyu Zhang et.al., Paper: [http://arxiv.org/abs/2211.16697v1](http://arxiv.org/abs/2211.16697v1)
 - 2022-11-28, **SLAN: Self-Locator Aided Network for Cross-Modal Understanding**, Jiang-Tian Zhai et.al., Paper: [http://arxiv.org/abs/2211.16208v1](http://arxiv.org/abs/2211.16208v1)
