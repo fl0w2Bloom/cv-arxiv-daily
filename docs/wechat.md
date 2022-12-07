@@ -1,8 +1,8 @@
-> Updated on 2022.12.06
+> Updated on 2022.12.07
 
 ## SLAM
 
-- 2022-12-05, **RGB-L: Enhancing Indirect Visual SLAM using LiDAR-based Dense Depth Maps**, Florian Sauerbeck et.al., Paper: [http://arxiv.org/abs/2212.02085v1](http://arxiv.org/abs/2212.02085v1)
+- 2022-12-06, **RGB-L: Enhancing Indirect Visual SLAM using LiDAR-based Dense Depth Maps**, Florian Sauerbeck et.al., Paper: [http://arxiv.org/abs/2212.02085v2](http://arxiv.org/abs/2212.02085v2)
 - 2022-12-05, **DL-SLOT: Dynamic LiDAR SLAM and object tracking based on collaborative graph optimization**, Xuebo Tian et.al., Paper: [http://arxiv.org/abs/2212.02077v1](http://arxiv.org/abs/2212.02077v1)
 - 2022-12-05, **ObjectMatch: Robust Registration using Canonical Object Correspondences**, Can Gümeli et.al., Paper: [http://arxiv.org/abs/2212.01985v1](http://arxiv.org/abs/2212.01985v1)
 - 2022-12-02, **Sparse SPN: Depth Completion from Sparse Keypoints**, Yuqun Wu et.al., Paper: [http://arxiv.org/abs/2212.00987v1](http://arxiv.org/abs/2212.00987v1)
@@ -602,7 +602,7 @@
 ## Keypoint Detection
 
 - 2022-12-05, **Images Speak in Images: A Generalist Painter for In-Context Visual Learning**, Xinlong Wang et.al., Paper: [http://arxiv.org/abs/2212.02499v1](http://arxiv.org/abs/2212.02499v1), Code: **[https://github.com/baaivision/painter](https://github.com/baaivision/painter)**
-- 2022-12-05, **R2FD2: Fast and Robust Matching of Multimodal Remote Sensing Image via Repeatable Feature Detector and Rotation-invariant Feature Descriptor**, Bai Zhu et.al., Paper: [http://arxiv.org/abs/2212.02277v1](http://arxiv.org/abs/2212.02277v1)
+- 2022-12-06, **R2FD2: Fast and Robust Matching of Multimodal Remote Sensing Image via Repeatable Feature Detector and Rotation-invariant Feature Descriptor**, Bai Zhu et.al., Paper: [http://arxiv.org/abs/2212.02277v2](http://arxiv.org/abs/2212.02277v2)
 - 2022-11-28, **FeatureBooster: Boosting Feature Descriptors with a Lightweight Neural Network**, Xinjiang Wang et.al., Paper: [http://arxiv.org/abs/2211.15069v1](http://arxiv.org/abs/2211.15069v1)
 - 2022-11-29, **BALF: Simple and Efficient Blur Aware Local Feature Detector**, Zhenjun Zhao et.al., Paper: [http://arxiv.org/abs/2211.14731v2](http://arxiv.org/abs/2211.14731v2)
 - 2022-11-21, **Conjugate Product Graphs for Globally Optimal 2D-3D Shape Matching**, Paul Roetzer et.al., Paper: [http://arxiv.org/abs/2211.11589v1](http://arxiv.org/abs/2211.11589v1)
